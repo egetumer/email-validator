@@ -8,7 +8,7 @@ public class App
 {
 	public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        // System.out.println( "Hello World!" );
         
         String email0 = "user@domain.com";
         String email1 = "userdomain.com";
